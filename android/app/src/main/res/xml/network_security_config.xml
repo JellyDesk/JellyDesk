@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+  <!-- DEV: global HTTP erlauben. Für PROD gern einschränken. -->
+  <base-config cleartextTrafficPermitted="true">
+    <trust-anchors>
+      <certificates src="system" />
+    </trust-anchors>
+  </base-config>
+
+  <!-- Beispiel für gezielte Freigabe nur für deine Jellyfin-IP:
+  <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="false">192.168.0.123</domain>
+  </domain-config>
+  -->
+</network-security-config>
