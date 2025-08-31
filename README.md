@@ -1,6 +1,16 @@
+# <center>JellyDesk</center>
+
+---
+
+### <center> A Modern Cross-Over Platform Client for Jellyfin </center>
+
+---
+
 <p align="center">
   <img src="https://i.imgur.com/vhy1nI7.png" alt="Jellydesk Banner" width="100%">
 </p>
+
+---
 
 <p align="center">
   <a href="https://github.com/JellyDesk/JellyDesk/stargazers">
@@ -19,9 +29,9 @@
   <img alt="Platforms" src="https://img.shields.io/badge/Platforms-macOS%20%7C%20iOS%20%7C%20Android%20%7C%20Android%20TV%20%7C%20Linux-6A5ACD?style=for-the-badge">
 </p>
 
-# Jellydesk
+---
 
-A modern, cross-platform **Flutter client for Jellyfin** with multi-server support, **username/password login** and **Quick Connect**, a sleek Material 3 UI, **Chromecast (stub)** and **AirPlay (iOS)** hooks, plus desktop support.
+A modern, cross-platform **Jellyfin Client** with multi-server support, **username/password login** and **Quick Connect**, a sleek Material 3 UI, **Chromecast (stub)** and **AirPlay (iOS)** hooks, plus desktop support.
 
 > **Apple TV (tvOS)** is *not officially supported* by Flutter. Android TV is supported as a normal Android target (TV layout tweaks included).
 

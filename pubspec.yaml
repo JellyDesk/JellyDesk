@@ -20,6 +20,8 @@ dependencies:
   video_player: ^2.9.1
   cast: ^2.1.0
   flutter_to_airplay: ^2.0.5
+  cached_network_image: ^3.3.1   # stabile Bild-Lade/Cache + Header-Support
+  uuid: ^4.4.0  
 
 dev_dependencies:
   flutter_test:
